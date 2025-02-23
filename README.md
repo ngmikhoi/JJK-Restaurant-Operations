@@ -1,10 +1,6 @@
 # JJK-Restaurant-Operations
 # Assignment 2 - Data Structures and Algorithms  
 
-## University Information  
-**Ho Chi Minh City University of Technology**  
-**Faculty of Computer Science and Engineering**  
-
 ## Overview  
 This assignment covers **binary trees, AVL trees, Huffman coding, heaps, and Caesar cipher**, focusing on their applications in searching, compression, and cryptography.  
 
@@ -15,3 +11,6 @@ This assignment covers **binary trees, AVL trees, Huffman coding, heaps, and Cae
 - **Caesar Cipher**: Encrypt and decrypt text using a shift-based cipher.
 
 Happy coding! 🚀  
+
+**Ho Chi Minh City University of Technology**  
+**Faculty of Computer Science and Engineering**  
