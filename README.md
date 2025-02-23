@@ -6,7 +6,7 @@ This assignment covers **binary trees, AVL trees, heaps, Caesar cipher and Huffm
 
 ## Tasks  
 - **Binary Tree & AVL Tree**: Implement BST and AVL trees with insertion, deletion, and balancing.
-- - **Heap Operations**: Implement min-heap/max-heap and priority queues.  
+- **Heap Operations**: Implement min-heap/max-heap and priority queues.  
 - **Caesar Cipher**: Encrypt and decrypt text using a shift-based cipher.
 - **Huffman Coding**: Build a Huffman tree for text compression.  
 
