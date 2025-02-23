@@ -1,5 +1,5 @@
-# JJK-Restaurant-Operations
-# Assignment 2 - Data Structures and Algorithms  
+# Data Structures and Algorithms (CO2003)
+# Assignment 2 - JJK-Restaurant-Operations 
 
 ## Overview  
 This assignment covers **binary trees, AVL trees, Huffman coding, heaps, and Caesar cipher**, focusing on their applications in searching, compression, and cryptography.  
@@ -9,8 +9,6 @@ This assignment covers **binary trees, AVL trees, Huffman coding, heaps, and Cae
 - **Huffman Coding**: Build a Huffman tree for text compression.  
 - **Heap Operations**: Implement min-heap/max-heap and priority queues.  
 - **Caesar Cipher**: Encrypt and decrypt text using a shift-based cipher.
-
-Happy coding! 🚀  
 
 **Ho Chi Minh City University of Technology**  
 **Faculty of Computer Science and Engineering**  
