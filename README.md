@@ -1,6 +1,8 @@
 # Assignment 2 - JJK-Restaurant-Operations 
-**Course:** Data Structures and Algorithms (CO2003) 
-**Faculty of Computer Science and Engineering** 
+**Course:** Data Structures and Algorithms (CO2003)
+
+**Faculty of Computer Science and Engineering**
+
 **Institution:** Hochiminh City University of Technology  
 
 ## Overview  
